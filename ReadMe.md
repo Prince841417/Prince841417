@@ -1,8 +1,27 @@
-Hi 👋, I'm Prince Kumar Yadav
- 🌱 I’m currently learning: AI/ML<br>👯 I’m looking to collaborate on: Enter your project name and info
- 🤔 I’m looking for help with: Your project here
- 💬 Ask me about: Collaboration, Tech Support<br>📫 How to reach me: princeyadavmashrk@gmail.com<br>
- ⚡ Fun fact: I Love Tech and Tech Love Me
+# Hi 👋, I'm Prince Kumar Yadav
+
+🎓 B.Tech Computer Science Engineering Student
+💻 Aspiring Software Developer
+🌱 Currently Learning Java, Data Structures & Algorithms, and Full Stack Development
+🎯 Goal: To become a skilled software developer and secure a good placement.
+
+## 🚀 About Me
+
+* 📚 Improving my problem-solving skills through DSA.
+* ☕ Practicing Java programming.
+* 🌐 Learning web development and building projects.
+* 🤖 Exploring Artificial Intelligence and Machine Learning.
+* 🤝 Interested in collaborating on beginner-friendly projects.
+
+## 💻 Tech Stack
+
+* **Languages:** Java, JavaScript, Python, C++
+* **Web Development:** HTML, CSS, JavaScript
+* **Tools:** Git, GitHub, VS Code
+* **Currently Learning:** DSA, SQL, Full Stack Development
+
+
+
 
 
 ## 🌐 Socials:
@@ -17,5 +36,6 @@ Hi 👋, I'm Prince Kumar Yadav
 
 ---
 [![](https://komarev.com/ghpvc/?username=Prince841417&icon=0&color=0)](https://visitcount.itsvg.in)
+⭐ Thanks for visiting my profile!
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
