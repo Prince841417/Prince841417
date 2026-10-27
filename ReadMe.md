@@ -1,4 +1,4 @@
-# 💫 About Me:
+💫 Hi 👋, I'm Prince Kumar Yadav
 🌱 I’m currently learning: AI/ML<br>👯 I’m looking to collaborate on: Enter your project name and info<br>🤔 I’m looking for help with: Your project here<br>💬 Ask me about: Collaboration, Tech Support<br>📫 How to reach me: princeyadavmashrk@gmail.com<br>⚡ Fun fact: I Love Tech and Tech Love Me
 
 
